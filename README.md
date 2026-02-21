@@ -72,9 +72,12 @@
 
 ## 📊 GitHub Stats
 
-![Sankalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankalp1347&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp1347&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sankalp1347&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sankalp1347&layout=compact&theme=tokyonight)
+
 
 ---
 
@@ -95,7 +98,7 @@
 
 ---
 ## 🔥 Contribution Graph
-![Snake animation](https://github.com/sankalp1347/sankalp1347/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sankalp1347/sankalp1347/output/github-contribution-grid-snake.svg)
 
 ---
 
