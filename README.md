@@ -94,5 +94,9 @@
 - 🌍 Portfolio: *(add if you build one)*
 
 ---
+## 🔥 Contribution Graph
+![Snake animation](https://github.com/sankalp1347/sankalp1347/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
