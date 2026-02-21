@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Sankalp%20Tiwatne&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+![Banner](https://raw.githubusercontent.com/sankalp1347/sankalp1347/refs/heads/main/banner.png)
 
 # 👋 Hi, I'm Sankalp Tiwatne  
 
