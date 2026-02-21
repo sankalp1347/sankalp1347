@@ -72,12 +72,11 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sankalp1347&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sankalp1347&layout=compact&theme=tokyonight)
-
+<div align="center" styles="justify-content:space-between">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankalp1347&show_icons=true&theme=tokyonight" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankalp1347&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
